@@ -7,12 +7,13 @@ navigation_weight: 4
 
 # Members
 
+-----
 
 ## Principal Investigator:
 ### Dr. **Heng Wang**
 **wanghengscut@scut.edu.cn**  
 
-![PI](wangheng.jpg){: width="250px" style="float:left; padding-right:10px"} 
+![PI](wangheng.jpg){: width="250px" style="float:right; padding-right:10px"} 
 Professional appointments:  
 2021-present, **Associate Professor**  
 Shien-Ming Wu School of Intelligent Engineering, South China University of Technology.   
@@ -23,6 +24,8 @@ Education:
 2012-2016, Bachelor's degreeSchool of Energy and Power Engineering, Xi'an Jiaotong University
 
 Dr. Xiaoguang Dong got his Ph.D. degree from the Department of Mechanical Engineering at Carnegie Mellon University. He worked as a postdoctoral researcher at the Max Planck Institute for Intelligent Systems, Germany. Dr. Dong has long been working on the design, manufacture and control of microrobots for important applications such as biomedicine. His research works have been published in several top journals and conferences in the field of robotics, such as IEEE Transactions on Robotics, International Journal of Robotics Research, The IEEE International Conference on Robotics and Automation (ICRA), Robotics: Science and Systems (RSS). His interdisciplinary bioinspired robotics works have also been published in the top multidisciplinary journals such as Science Advances, PNAS and Nature Communications. 
+
+-----
 
 ## Graduate students
 * Two PhD students are joining us from 2022 Fall

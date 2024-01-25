@@ -30,7 +30,7 @@ navigation_weight: 1
 
 * Dec. 04, 2023: Our paper "Active 6-DoF Electromagnetic Pose Tracking Using Orientation Control of the Magnetic Source" is online now on **2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)**. Congrats, Shen, Dong, Liu and Zhang!
 
-* Nov. 18, 2023: Our robotics paper "Three-degrees-of-freedom orientation manipulation of small untethered robots with a single anisotropic soft magnet" is online now on **Nature Communications**. Congrats, Wang, Cui, Tian and Han!
+* <p style="text-align:justify; text-justify:inter-ideograph;">Nov. 18, 2023: Our robotics paper "Three-degrees-of-freedom orientation manipulation of small untethered robots with a single anisotropic soft magnet" is online now on **Nature Communications**. Congrats, Wang, Cui, Tian and Han!</p>
 
 * Jul. 26, 2023: We had the honor of hosting researcher Wang Shuangyi from the Institute of Automation at the Chinese Academy of Sciences for an academic lecture titled "Practice and Exploration of Robotic Upgrades in Medical Diagnosis and Treatment Equipment".
 

@@ -29,12 +29,12 @@ Dr. Dong has long been working on the design, manufacture and control of microro
 
 ## Ph.D Students
 ![PI](wangheng.jpg){: width="150px" style="float:left; padding-right:10px"} 
-**Suqi Liu**  
+### **Suqi Liu**  
 
-Email:  
+**Email:**  
 wisqliu@mail.scut.edu.cn  
 
-Research Interest:  
+**Research Interest:**  
 Magnetic Sensing; State Estimation
 
 

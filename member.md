@@ -136,7 +136,7 @@ Magnetic Source and Sensor Coils
 ---
 
 ## Undergraduate Students
-![PI](zhangxinlei1.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](zhangxinlei.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Xinlei Zhang**  
 **Email:**  
 guanqing020613@gmail.com
@@ -154,7 +154,7 @@ Six Degrees of Freedom Electromagnetic Positioning System; Medical Robot
 Active Sensing; Pose Estimation
 
 
-![PI](tiankuan1.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](tiankuan.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Kuan Tian**  
 **Email:**  
 a912206109@163.com
@@ -167,11 +167,11 @@ Soft Magnet Attitude Control
 ---
 
 ## Alumni
-* Wei Yan (2022.02 - present), Major: ME, VISE Summer Fellow
-* Jingwen Deng (2022.02 - present), Major: BME
-* Jinan Guo (2022.02 - present), Major: ME
-* Xinyi Li (2022.03 - present), Major: ME
-* Kaixiang Zhang (2022.04 - present), Major: ME, Clark Scholar
+* Wei Yan (2022.07 - 2023.06). He is currently pursuing a master's degree at Hong Kong University of Science and Technology (Guangzhou).
+* Jingwen Deng (2022.07 - 2023.06). She is currently pursuing a master's degree at South China University of Technology.
+* Jinan Guo (2023.02 - 2023.09). She is currently pursuing a master's degree at South China University of Technology.
+* Xinyi Li (2022.10 - 2023.06).  
+* Kaixiang Zhang (2022.04 - 2023.6). He will soon study for a master's degree at South China University of Technology.
 
 
 

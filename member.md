@@ -34,8 +34,17 @@ Dr. Dong has long been working on the design, manufacture and control of microro
 **Email:**  
 wisqliu@mail.scut.edu.cn  
 
-**Research Interest:**  
+**Research Interests:**  
 Magnetic Sensing; State Estimation
+
+
+![PI](wangheng.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Jiatao Zheng**  
+**Email:**  
+jtzheng_scut@163.com  
+
+**Research Interests:**  
+Magnetic Navigati​on Simulation; Medical Robotics  
 
 
 

@@ -28,7 +28,7 @@ Dr. Dong has long been working on the design, manufacture and control of microro
 -----
 
 ## Ph.D Students
-![PI](wangheng.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](liusuqi.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Suqi Liu**  
 
 **Email:**  
@@ -38,7 +38,7 @@ wisqliu@mail.scut.edu.cn
 Magnetic Sensing; State Estimation
 
 
-![PI](wangheng.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](zhengjiatao.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Jiatao Zheng**  
 **Email:**  
 jtzheng_scut@163.com  
@@ -47,12 +47,61 @@ jtzheng_scut@163.com
 Magnetic Navigati​on Simulation; Medical Robotics  
 
 
-
-
 ---
 
 ## Master Students
+![PI](dongshuda.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Shuda Dong**  
+**Email:**  
+wishudadong@mail.scut.edu.cn  
 
+**Research Interests:**  
+Magnetic Tracking; Pose Estimation; State Estimation; Active Sensing  
+
+
+![PI](wentao.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Tao Wen**  
+**Email:**  
+​witaowen@mail.scut.edu.cn
+
+**Research Interests:**  
+Magnetic Sensing; Soft Magnet Localization; Medical Robot Positioning
+
+
+![PI](cuijunhao.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Junhao Cui**  
+**Email:**  
+jh_cui@163.com  
+
+**Research Interests:**  
+Soft Magnetic Actuation and Control
+
+
+![PI](huanghaichao.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Haichao Huang**  
+**Email:**  
+wihuang_haichao@mail.scut.edu.cn
+
+**Research Interests:**  
+Magnetic Field Signal Analysis; Position and Posture Tracking   
+
+
+![PI](songhaoyu1.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Haoyu Song**  
+**Email:**  
+202320159929@mail.scut.edu.cn
+
+**Research Interests:**  
+Magnetic Navigation Simulation of Medical Robots
+
+
+![PI](hanyuxiang.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Yuxiang Han**  
+**Email:**  
+​202320160073@mail.scut.edu.cn
+
+**Research Interests:**  
+Magnetic Actuation
 
 
 

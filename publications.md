@@ -10,11 +10,9 @@ navigation_weight: 2
 For previous publications, please visit
 [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=a_5IJgcAAAAJ&view_op=list_works&sortby=pubdate).
 
-<img src="research_overview.png" alt="research overview" width="900"/> 
 
-
-## **Paper**
-*(#: Co-first author;*: Corresponding author)*
+## Paper
+*(#: Co-first author;* **: Corresponding author)*
 
 ### 2024
 
@@ -55,7 +53,7 @@ For previous publications, please visit
 
 
 
-
+<img src="research_overview.png" alt="research overview" width="900"/> 
 
 ![Climbing](climbing.png) 
 

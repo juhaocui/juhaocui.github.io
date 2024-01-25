@@ -10,10 +10,9 @@ navigation_weight: 4
 
 ## Principal Investigator:
 ### Dr. **Heng Wang**
-
-![PI](wangheng.jpg){: width="250px" style="float:left; padding-right:10px"} 
 **wanghengscut@scut.edu.cn**  
 
+![PI](wangheng.jpg){: width="250px" style="float:left; padding-right:10px"} 
 Professional appointments:  
 2021-present, **Associate Professor**  
 Shien-Ming Wu School of Intelligent Engineering, South China University of Technology.   

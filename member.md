@@ -28,7 +28,7 @@ Dr. Dong has long been working on the design, manufacture and control of microro
 -----
 
 ## Ph.D Students
-![PI](wangheng.jpg){: width="250px" style="float:left; padding-right:10px"} 
+![PI](wangheng.jpg){: width="150px" style="float:left; padding-right:10px"} 
 **Suqi Liu**
 Email:
 wisqliu@mail.scut.edu.cn

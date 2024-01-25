@@ -8,15 +8,54 @@ navigation_weight: 2
 # Publications
 
 For previous publications, please visit
-[**Google Scholar**](https://scholar.google.com/citations?user=frHaDgIAAAAJ&hl=en).
+[**Google Scholar**](https://scholar.google.com/citations?hl=en&user=a_5IJgcAAAAJ&view_op=list_works&sortby=pubdate).
 
 <img src="research_overview.png" alt="research overview" width="900"/> 
 
 
-# **Medical miniature robots**
-* **Key words**: Droplet robots, drug delivery, robotic capsule endoscopes, magnetic actuation and localization
+## **Paper**
+*(#: Co-first author;*: Corresponding author)*
 
-## Wireless soft climbing robots for drug delivery
+### 2024
+
+* [1] Shuda Dong, Heng Wang*. "A Compact and Robust 6-DoF Pose Tracking System Using Magnetic-Inertial Sensors and a Single Uniaxial Electromagnetic Coil". IEEE Sensors Journal. 
+
+### 2023
+
+* [1] Yile Shen#, Shuda Dong#, Dekang Liu, Kaixiang Zhang, Heng Wang*. "Active 6-DoF Electromagnetic Pose Tracking Using Orientation Control of the Magnetic Source". 2023 IEEE International Conference on Robotics and Biomimetics (ROBIO).
+
+* [2] Heng Wang#*, Junhao Cui#, Kuan Tian, Yuxiang Han. "Three-degrees-of-freedom orientation manipulation of small untethered robots with a single anisotropic soft magnet". Nature Communiations. [https://doi.org/10.1038/s41467-023-42783-5](https://doi.org/10.1038/s41467-023-42783-5)
+  
+* [3] Heng Wang#, Shuda Dong#, Qi Yang, Jiancheng Han, Ze'an He, Yihua He*, and Shuangyi Wang*. "A Virtual Ultrasonography Simulator for Skill Training Using Magnetic-Inertial Probe Tracking". IEEE Transactions on Mechatronics. 
+
+
+### 2022
+
+* [1] T. Wen, H. Wang*, "Identification of Workspace of the Soft-magnet Based Position Tracking System for Medical Robots Using Parallel Experiments". IEEE Journal of Radio Frequency Identification (also reported on DTPI 2022), 2022.
+  
+* [2] H. Wang, S. Wang, H. Liu, K. Rhode, Z. G. Hou, R. Rajamani, "3-D Electromagnetic Position Estimation System Using High-Magnetic-Permeability Metal for Transluminal Continuum Medical Robots", IEEE Robotics and Automation Letters (also reported on ICRA 2022).
+  
+* [3] H. Wang, A. Zemouche and R. Rajamani, "Nonlinear Observer for Electromagnetic Position Estimation Using Active Current Control", Mechanical Systems and Signal Processing.
+  
+* [4] H. Wang, S. Wang, R. Rajamani, "Electromagnetic Angular Position Sensing Using High-Magnetic-Permeability Materials", IEEE Sensors Journal.
+
+### 2020
+
+* [1] H. Wang and R. Rajamani, “Electromagnetic Position Estimation Using Active Current Control and Nonlinear Observer”, Proceedings of the American Control Conference (ACC), Denver, 2020.
+
+
+### 2019
+
+* [1] H. Wang, R. Madson and R. Rajamani, “Electromagnetic Position Measurement System Immune to Ferromagnetic Disturbances”, IEEE Sensors Journal.
+  
+* [2] H. Wang and R. Rajamani, “A Remote Position Sensing Method Based on Passive High Magnetic Permeability Thin Films”, Sensors and Actuators A: Physical.
+  
+* [3] H. Wang, H. Wang, J. Huang, B. Zhao and L. Quan, “Smooth Point-to-point Trajectory Planning for Industrial Robots with Kinematic Constraints based on High-order Polynomial Curve”, Mechanism and Machine Theory.
+
+
+
+
+
 
 ![Climbing](climbing.png) 
 

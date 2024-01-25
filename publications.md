@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wang Lab
-description: Publications
+description: Publication
 navigation_weight: 2
 ---
 

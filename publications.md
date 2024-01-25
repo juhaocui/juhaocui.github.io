@@ -11,7 +11,7 @@ For previous publications, please visit
 [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=a_5IJgcAAAAJ&view_op=list_works&sortby=pubdate).
 
 
-## Paper
+## **Paper**
 *(#: Co-first author;* **: Corresponding author)*
 
 ### 2024
@@ -24,7 +24,7 @@ For previous publications, please visit
 
 * [2] Heng Wang#*, Junhao Cui#, Kuan Tian, Yuxiang Han. "Three-degrees-of-freedom orientation manipulation of small untethered robots with a single anisotropic soft magnet". Nature Communiations. [https://doi.org/10.1038/s41467-023-42783-5](https://doi.org/10.1038/s41467-023-42783-5)
   
-* [3] Heng Wang#, Shuda Dong#, Qi Yang, Jiancheng Han, Ze'an He, Yihua He*, and Shuangyi Wang*. "A Virtual Ultrasonography Simulator for Skill Training Using Magnetic-Inertial Probe Tracking". IEEE Transactions on Mechatronics. 
+* [3] Heng Wang#, Shuda Dong#, Qi Yang, Jiancheng Han, Ze'an He, Yihua He* and Shuangyi Wang*. "A Virtual Ultrasonography Simulator for Skill Training Using Magnetic-Inertial Probe Tracking". IEEE Transactions on Mechatronics. 
 
 
 ### 2022

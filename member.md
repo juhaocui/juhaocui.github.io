@@ -9,9 +9,9 @@ navigation_weight: 4
 
 
 ## Principal Investigator:
+### Dr. **Heng Wang**
 
 ![PI](wangheng.jpg){: width="250px" style="float:left; padding-right:10px"} 
-### Dr. **Heng Wang**
 **wanghengscut@scut.edu.cn**  
 
 Professional appointments:  

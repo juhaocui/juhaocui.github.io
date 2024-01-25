@@ -68,7 +68,7 @@ Magnetic Tracking; Pose Estimation; State Estimation; Active Sensing
 Magnetic Sensing; Soft Magnet Localization; Medical Robot Positioning
 
 
-![PI](cuijunhao.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](cuijunhao1.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Junhao Cui**  
 **Email:**  
 jh_cui@163.com  
@@ -86,10 +86,10 @@ wihuang_haichao@mail.scut.edu.cn
 Magnetic Field Signal Analysis; Position and Posture Tracking   
 
 
-![PI](songhaoyu1.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](songhaoyu.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Haoyu Song**  
 **Email:**  
-202320159929@mail.scut.edu.cn
+202320159929@mail.scut.edu.cn  
 
 **Research Interests:**  
 Magnetic Navigation Simulation of Medical Robots
@@ -98,10 +98,37 @@ Magnetic Navigation Simulation of Medical Robots
 ![PI](hanyuxiang.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Yuxiang Han**  
 **Email:**  
-​202320160073@mail.scut.edu.cn
+​202320160073@mail.scut.edu.cn  
 
 **Research Interests:**  
 Magnetic Actuation
+
+
+![PI](liudekang.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Dekang Liu**  
+**Email:**  
+​liu_dekang@qq.com  
+
+**Research Interests:**  
+Magnetic Tracking; Signal Processing
+
+
+![PI](wangkunli.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Kunli Wang**  
+**Email:**  
+2339465622@qq.com
+
+**Research Interests:**  
+Path Planning for Magnetic Navigation Robots
+
+
+![PI](zengyifeng.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Yifeng Zeng**  
+**Email:**  
+​1654280015@qq.com
+
+**Research Interests:**  
+Magnetic Source and Sensor Coils
 
 
 
@@ -109,18 +136,42 @@ Magnetic Actuation
 ---
 
 ## Undergraduate Students
+![PI](zhangxinlei1.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Xinlei Zhang**  
+**Email:**  
+guanqing020613@gmail.com
 
+**Research Interests:**  
+Six Degrees of Freedom Electromagnetic Positioning System; Medical Robot
+
+
+![PI](shenyile.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Yile Shen**  
+**Email:**  
+​202030020205@mail.scut.edu.cn
+
+**Research Interests:**  
+Active Sensing; Pose Estimation
+
+
+![PI](tiankuan1.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Kuan Tian**  
+**Email:**  
+a912206109@163.com
+
+**Research Interests:**  
+Soft Magnet Attitude Control
 
 
 
 ---
 
 ## Alumni
-* Andrew Haworth (2022.02 - present), Major: ME, VISE Summer Fellow
-* Shreya Shrestha (2022.02 - present), Major: BME
-* Yilan Xu (2022.02 - present), Major: ME
-* Cameron Thomas (2022.03 - present), Major: ME
-* Saksham Sharma (2022.04 - present), Major: ME, Clark Scholar
+* Wei Yan (2022.02 - present), Major: ME, VISE Summer Fellow
+* Jingwen Deng (2022.02 - present), Major: BME
+* Jinan Guo (2022.02 - present), Major: ME
+* Xinyi Li (2022.03 - present), Major: ME
+* Kaixiang Zhang (2022.04 - present), Major: ME, Clark Scholar
 
 
 

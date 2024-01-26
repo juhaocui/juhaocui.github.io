@@ -16,7 +16,7 @@ For all publications, please visit
 
 ### 2024
 
-* [1] Shuda Dong, Heng Wang*. "A Compact and Robust 6-DoF Pose Tracking System Using Magnetic-Inertial Sensors and a Single Uniaxial Electromagnetic Coil". IEEE Sensors Journal. [DOI: 10.1109/JSEN.2023.3348243](10.1109/JSEN.2023.3348243)
+* [1] Shuda Dong, Heng Wang*. "A Compact and Robust 6-DoF Pose Tracking System Using Magnetic-Inertial Sensors and a Single Uniaxial Electromagnetic Coil". IEEE Sensors Journal. [DOI: 10.1109/JSEN.2023.3348243](DOI: 10.1109/JSEN.2023.3348243)
 
 ### 2023
 

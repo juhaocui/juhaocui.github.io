@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dong Lab
+title: Wang Lab
 description: Research
 navigation_weight: 3
 

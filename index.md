@@ -31,7 +31,7 @@ navigation_weight: 1
 
 * (Nov. 18, 2023) Our robotics paper "Three-degrees-of-freedom orientation manipulation of small untethered robots with a single anisotropic soft magnet" is online now on **Nature Communications**. Congrats, Wang, Cui, Tian and Han!
 
-* (Jul. 26, 2023: We had the honor of hosting researcher Shuangyi Wang from the Institute of Automation at the Chinese Academy of Sciences for an academic lecture titled "Practice and Exploration of Robotic Upgrades in Medical Diagnosis and Treatment Equipment".
+* (Jul. 26, 2023): We had the honor of hosting researcher Shuangyi Wang from the Institute of Automation at the Chinese Academy of Sciences for an academic lecture titled "Practice and Exploration of Robotic Upgrades in Medical Diagnosis and Treatment Equipment".
 
 * (Jun. 28, 2023) Our paper "A Virtual Ultrasonography Simulator for Skill Training Using Magnetic-Inertial Probe Tracking" is online now on **IEEE/ASME Transactions on Mechatronics**. Congrats, Wang, Dong and co-authors!
 

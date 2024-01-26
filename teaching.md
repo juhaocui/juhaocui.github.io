@@ -1,22 +1,19 @@
 ---
 layout: default
-title: Dong Lab
+title: Wang Lab
 description: Teaching
 navigation_weight: 5
 ---
 
 # Teaching
 
-1. **Department of Mechanical Engineering, Vanderbilt University**
-* 2022 Spring, Dynamics ME 2190 (ME core)
-* 2023 Fall, Miniature Robotics 
+## Undergraduate Courses
+* Analysis and Applications of Big Data in Industry, Fall 2021, Fall 2022
+* Theory and Technology of Robotics, Spring 2022 
 
-2. **SimTech, University of Stuttgart, Germany**
-* 2021 Summer, Seminar course on scientific papers in robotics
-
-3. **Department of Mechanical Engineering, Carnegie Mellon University**
-* Fall 2014, Bio-inspired Robotics - 24676, Office hours, Grading
-* Spring 2015, Numerical Methods in Engineering - 24703, Office hours, Grading, Homework Recitation
+## Graduate Courses
+* Frontiers in Intelligent Manufacturing, Fall 2021, Fall 2022
+* Modern Sensing Technology and Uncertainty Theory, Fall 2022
 
 
 

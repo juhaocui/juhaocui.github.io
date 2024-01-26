@@ -7,7 +7,7 @@ navigation_weight: 8
 # Contact information
 
 ## For contacting PI (see [Opportunity](./opportunity) for potential positions)
-* Email: wanghengscut@scut.edu.cn
+* Email: **wanghengscut@scut.edu.cn**
 * Mailing address: 
 
 ```

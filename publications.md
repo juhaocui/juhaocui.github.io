@@ -22,7 +22,7 @@ For all publications, please visit
 
 * [1] Yile Shen#, Shuda Dong#, Dekang Liu, Kaixiang Zhang, Heng Wang*. "Active 6-DoF Electromagnetic Pose Tracking Using Orientation Control of the Magnetic Source". 2023 IEEE International Conference on Robotics and Biomimetics (ROBIO).[DOI: 10.1109/ROBIO58561.2023.10354689](https://doi.org/10.1109/ROBIO58561.2023.10354689)
 
-* [2] Heng Wang#*, Junhao Cui#, Kuan Tian, Yuxiang Han. "Three-degrees-of-freedom orientation manipulation of small untethered robots with a single anisotropic soft magnet". Nature Communiations. [DOI: 10.1038/s41467-023-42783-5](https://doi.org/10.1038/s41467-023-42783-5)
+* [2] Heng Wang#*, Junhao Cui#, Kuan Tian, Yuxiang Han. "Three-degrees-of-freedom orientation manipulation of small untethered robots with a single anisotropic soft magnet". Nature Communications. [DOI: 10.1038/s41467-023-42783-5](https://doi.org/10.1038/s41467-023-42783-5)
   
 * [3] Heng Wang#, Shuda Dong#, Qi Yang, Jiancheng Han, Ze'an He, Yihua He* and Shuangyi Wang*. "A Virtual Ultrasonography Simulator for Skill Training Using Magnetic-Inertial Probe Tracking". IEEE Transactions on Mechatronics. [DOI: 10.1109/TMECH.2023.3284535](https://doi.org/10.1109/TMECH.2023.3284535)
 

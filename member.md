@@ -71,7 +71,7 @@ Magnetic Sensing; Soft Magnet Localization; Medical Robot Positioning
 ![PI](cuijunhao1.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Junhao Cui**  
 **Email:**  
-jh_cui@163.com  
+wijhcui@mail.scut.edu.cn  
 
 **Research Interests:**  
 Soft Magnetic Actuation and Control
@@ -169,7 +169,7 @@ Soft Magnet Attitude Control
 ## Alumni
 * Wei Yan (2022.07 - 2023.06). He is currently pursuing a master's degree at Hong Kong University of Science and Technology (Guangzhou).
 * Jingwen Deng (2022.07 - 2023.06). She is currently pursuing a master's degree at South China University of Technology.
-* Jinan Guo (2023.02 - 2023.09). She is currently pursuing a master's degree at South China University of Technology.
+* Ji'nan Guo (2023.02 - 2023.09). She is currently pursuing a master's degree at South China University of Technology.
 * Xinyi Li (2022.10 - 2023.06).  
 * Kaixiang Zhang (2022.04 - 2023.6). He will soon study for a master's degree at South China University of Technology.
 

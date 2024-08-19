@@ -5,7 +5,6 @@ navigation_weight: 1
 ---
 
 ![lab log](lab_cover.png)
-![wu1](Photo/wu1.jpg)
 
 
 ---------
